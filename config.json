@@ -1,0 +1,6 @@
+{
+    "df_metab_test": "./test_samples/df_metab_test.csv",
+    "df_prot_test": "./test_samples/df_prot_test.csv",
+    "mode": "MP",
+    "output": "./"
+  }
